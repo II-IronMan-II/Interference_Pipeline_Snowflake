@@ -3,7 +3,7 @@
 An end-to-end machine learning pipeline built on Snowflake that demonstrates automated model training, registry management, and real-time inference on streaming data.
 
 ![ML Framework](ML-Framework.png)
-![Architecture HLD](Architecture_HLD_.png)
+![Architecture](Architecture.png)
 
 ## 📋 Project Overview
 
